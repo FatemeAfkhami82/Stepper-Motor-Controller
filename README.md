@@ -20,5 +20,3 @@ This repository contains the design, simulation, and implementation of a micropr
 - `/Simulation`: Proteus simulation files and schematics.
 - `/Docs`: Lab instructions and project definitions.
 
-## 📸 Simulation View
-![Project Simulation](image_a3494a.png)
